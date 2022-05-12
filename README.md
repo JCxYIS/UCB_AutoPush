@@ -1,9 +1,11 @@
-# Unity Cloud Build - Auto push to github (UCB AutoPush)
+# UCB AutoPush
+
+Auto push build results to github from Unity Cloud Build
 
 ![](https://i.imgur.com/dXWtCgL.png)
 
 ## Features
-- Automatically push the build artifact to the selected github repo
+- Automatically push UCB build result to the selected github repo
 - Sync version code at every build
 - Compatible with all target platform on UCB
 
