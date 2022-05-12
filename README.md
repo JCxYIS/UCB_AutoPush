@@ -1,5 +1,4 @@
 # UCB AutoPush
-
 Auto push build results to github from Unity Cloud Build
 
 ![](https://i.imgur.com/dXWtCgL.png)
@@ -8,8 +7,6 @@ Auto push build results to github from Unity Cloud Build
 - Automatically push UCB build result to the selected github repo
 - Sync version code at every build
 - Compatible with all target platform on UCB
-
-
 
 ## Setting up
 ### Copy files to your project 
@@ -31,7 +28,7 @@ Auto push build results to github from Unity Cloud Build
 
 
 ### References
-tekminewe/unity-cloud-build-auto-build-number    
+tekminewe/unity-cloud-build-auto-build-number
 https://github.com/tekminewe/unity-cloud-build-auto-build-number
 
 
@@ -39,6 +36,6 @@ Uploading to Steam via Post Build Script - Unity Fourm
 https://forum.unity.com/threads/uploading-to-steam-via-post-build-script.1032253/#post-8024819
 
 
-unity cloud build Post-Build Script upload to github pages   
+unity cloud build Post-Build Script upload to github pages
 https://stackoverflow.com/questions/60791806/unity-cloud-build-post-build-script-upload-to-github-pages
 
